@@ -1,0 +1,1 @@
+import{y as t,G as n,d as c,n as l,a9 as s,i as p}from"#entry";const u={base:"border-t border-default my-12"},f={__name:"ProseHr",props:{class:{type:null,required:!1}},setup(e){const a=e,r=t(),o=n(()=>s({extend:s(u),...r.ui?.prose?.hr||{}}));return(i,m)=>(p(),c("hr",{class:l(o.value({class:a.class}))},null,2))}};export{f as default};
